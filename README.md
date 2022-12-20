@@ -25,4 +25,4 @@ npm install
 
 ## Visit Live Site
 
-If you wanna take a look at the website, [Go Here](https://mern-blog-esti.herokuapp.com/)
+If you wanna take a look at the website, [Go Here](https://mern-blog-by-fahimesti.onrender.com/)

@@ -25,7 +25,7 @@ export default function Topbar() {
               HOME
             </Link>
           </li>
-          <li className="topListItem">ABOUT</li>
+          {/* <li className="topListItem">ABOUT</li> */}
           <li className="topListItem">
             <Link className="link" to="/write">
               WRITE
@@ -60,4 +60,4 @@ export default function Topbar() {
       </div>
     </div>
   );
-}
+};
